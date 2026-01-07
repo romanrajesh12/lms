@@ -73,6 +73,14 @@ npm run build
 - **Styling**: CSS (Custom)
 - **State Management**: React Hooks + localStorage
 
+- #User
+- username: user
+- password: user123
+
+- #Admin
+- username: admin
+- password:admin123
+
 ## Project Structure
 
 ```
